@@ -3,7 +3,7 @@
 """
 Created on Fri May 16 07:55:38 2025
 
-@author: ananiassoutovi
+@author: Anani Assoutovi
 """
 
 import warnings
